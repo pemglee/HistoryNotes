@@ -12,6 +12,16 @@
 
 ### 明
 
+```mermaid
+gantt
+dateformat YYYY
+title 明朝历代帝王
+
+section 明朝帝王
+洪武: done, 朱元璋, 1368, 1398
+建文: done, 朱允炆, 1398, 1402
+```
+
 #### 帝王、官吏等
 
 ```mermaid
