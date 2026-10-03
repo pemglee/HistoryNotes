@@ -92,6 +92,31 @@
 
 ### 唐
 
+```mermaid
+gantt
+dateformat YYYY
+title 唐朝年谱
+
+section 唐朝帝王
+武德前: active, 李渊, 566, 618
+武德: active, 李渊, 618, 626
+贞观: active, 李世民, 626, 649
+永徽: active, 李治, 650, 655
+显庆: active, 李治, 656, 661
+龙朔: active, 李治, 661, 663
+麟德: active, 李治, 664, 665
+乾封: active, 李治, 666, 668
+总章: active, 李治, 668, 670
+咸亨: active, 李治, 670, 674
+上元: active, 李治, 674, 676
+仪凤: active, 李治, 676, 679
+调露: active, 李治, 679, 680
+永隆: active, 李治, 680, 681
+开耀: active, 李治, 681, 682
+永淳: active, 李治, 682, 683
+弘道: active, 李治, 683, 683
+```
+
 #### 帝王、官吏等
 
 ##### 唐高祖
